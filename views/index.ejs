@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multi Language</title>
+
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/main.js"></script>
+
+</head>
+<body>
+    <div class="container mt-5">
+        <div style="width: 7%;">
+            <select class="custom-select" name="lang" id="lang">
+                <option selected value="uz">uz</option>
+                <option value="en">en</option>
+                <option value="ru">ru</option>
+            </select>
+        </div>
+        <hr>
+        <h1 style="text-align: center;">
+            <%= data.title %>
+        </h1>
+        <p style="margin: auto; width: 50%;">
+            <%= data.content %>
+        </p>
+    </div>
+</body>
+</html>

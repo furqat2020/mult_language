@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "5f64a2f14a1c8a2278209f87"
+  },
+  "title": "Fruits",
+  "content": "Fruits are a very important thing for the human body. Because fruits contain the most essential vitamins for the human body.",
+  "lang": "en",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f64a31b4a1c8a2278209f88"
+  },
+  "title": "Фрукты",
+  "content": "Фрукты - очень важная вещь для человеческого организма. Потому что фрукты содержат самые необходимые для человеческого организма витамины.",
+  "lang": "ru",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f64a54c4a1c8a2278209f89"
+  },
+  "title": "Mevalar",
+  "content": "Mevalar odam organizimi uchun juda muhim narsa hisoblaniladi. Chunki mevalarda odam organizimi uchun eng kerakli vitaminlar mavjud.",
+  "lang": "uz",
+  "__v": 0
+}]
